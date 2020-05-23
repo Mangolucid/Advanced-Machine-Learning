@@ -1,0 +1,6 @@
+This module is an introduction to the concept of a deep neural network. You'll begin with the linear model and finish with writing your very first deep network.
+
+Key Concepts:
+    Explain the mechanics of basic building blocks for neural networks
+    Apply backpropagation algorithm to train deep neural networks using automatic differentiation
+    Implement, train and test neural networks using TensorFlow and Keras
